@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+pyjwt
+python-owasp-zap-v2.4
